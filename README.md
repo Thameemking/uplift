@@ -1,17 +1,49 @@
-# scm_project
+# Uplift - Mental Wellness App 🌟
 
-A new Flutter project.
+Uplift is a comprehensive mental wellness application designed to help users manage their mental health through various features including mood tracking, meditation music, daily tasks, and inspirational quotes.
 
-## Getting Started
+## Features ✨
 
-This project is a starting point for a Flutter application.
+### 1. Mood Tracking 📊
+- Track daily mood patterns
+- Visual mood history
+- Add notes to mood entries
+- Identify emotional triggers
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Meditation Music 🎵
+- Curated collection of calming sounds
+- Different categories of meditation music
+- Background play support
+- Timer functionality
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Daily Tasks 📝
+- Set and track daily wellness goals
+- Create custom task lists
+- Progress tracking
+- Task completion reminders
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# uplift" 
+### 4. Inspirational Quotes 💭
+- Daily motivational quotes
+- Save favorite quotes
+- Share quotes with others
+- Category-based quote browsing
+
+### 5. Home Dashboard 🏠
+- Overview of daily wellness metrics
+- Quick access to all features
+- Personalized wellness insights
+- Progress summaries
+
+## Technical Specifications 🛠️
+
+### Built With
+- Flutter (Frontend)
+- Firebase (Backend)
+- Firebase Authentication
+- Cloud Firestore
+
+### Prerequisites
+- Flutter SDK
+- Android Studio / VS Code
+- Firebase account
+- Android SDK version 23 or higher
